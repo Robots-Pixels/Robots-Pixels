@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm passionate about robotics, AI, Web developpeme
 
 ## 👨‍💻 About Me
 
-- 🔭 I’m currently working on a Robotics Project Planner using MERN Stack for my Portfolio
+- 🔭 I’m currently working on a management and online ordering wep application for supermarket using MERN Stack for my Portfolio
 - 🌱 I’m currently learning MERN Stack
 - 📫 How to reach me on [LinkdeIn](linkedin.com/in/otmar-tchenga-953988319)
 
