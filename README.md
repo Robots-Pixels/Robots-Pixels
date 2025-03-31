@@ -1,11 +1,11 @@
 # Hi there, I'm Robots-Pixels! 🤖
 
-Welcome to my GitHub profile! I'm passionate about robotics, AI, Web developpement, video gamesm, and coding in general. I'm going to become a roboticist but for now, I'm working on Web Development. I also create content on YouTube and my channel is [YouTube](https://youtube.com/@robotspixels). Here, you'll find a collection of my projects, contributions, and interests.
+Welcome to my GitHub profile! I'm passionate about robotics, AI, Web developpement, video games, and coding in general. I'm going to become a roboticist but for now, I'm working on Web Development. I also create content on YouTube and my channel is [YouTube](https://youtube.com/@robotspixels). Here, you'll find a collection of my projects, contributions, and interests.
 
 ## 👨‍💻 About Me
 
-- 🔭 I’m currently working on a presentation and reservation wep application for restaurants called BeninDelice using MERN Stack for my Portfolio
-- 🌱 I’m currently learning MERN Stack
+- 🔭 I’m currently working on a receptionist robot.
+- 🌱 I’m currently learning Computer Vision
 - 📫 How to reach me on [LinkdeIn](linkedin.com/in/otmar-tchenga-953988319)
 
 ## 🚀 My Projects
@@ -31,12 +31,8 @@ Here are some of the technologies and tools I work with:
 ![trophy](https://github-profile-trophy.vercel.app/?username=Robots-Pixels&theme=onedark)
 
 ## 🔗 Connect with Me
--[YouTube](https://youtube.com/@robotspixels).
-
-- [LinkedIn](linkedin.com/in/otmar-tchenga-953988319)
-- 
+- [Portfolio](https://ot-tchenga.vercel.app/)
+- [LinkedIn](linkedin.com/in/otmar-tchenga-953988319) 
 - [Twitter](https://x.com/otmartch23)
-- 
-- [Website/Blog]
-
+- [YouTube](https://youtube.com/@robotspixels).
 Thank you for visiting my profile! Feel free to reach out if you want to connect or collaborate on a project. 😊
