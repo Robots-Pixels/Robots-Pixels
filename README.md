@@ -1,18 +1,18 @@
-# Hi there, I'm Robots-Pixels! 🤖
+# Hi there, I'm Otmar (Sōkenkai)! 🤖
 
 Welcome to my GitHub profile! I'm passionate about robotics, AI, Web developpement, video games, and coding in general. I'm going to become a roboticist but for now, I'm working on Web Development. I also create content on YouTube and my channel is [YouTube](https://youtube.com/@robotspixels). Here, you'll find a collection of my projects, contributions, and interests.
 
 ## 👨‍💻 About Me
 
-- 🔭 I’m currently working on a receptionist robot.
-- 🌱 I’m currently learning Computer Vision
-- 📫 How to reach me on [LinkdeIn](linkedin.com/in/otmar-tchenga-953988319)
+- 🔭 I’m currently working on, many things...
+- 🌱 And after the MERN Stack, I'm learning Next JS!
+- 📫 Reach me on [LinkdeIn](linkedin.com/in/otmar-tchenga-953988319)
 
 ## 🚀 My Projects
 
 Here are some of my noteworthy projects:
-
-- [Luxurious Estate](https://luxurious-estate.onrender.com/) : A Real Estate application using MERN stack.
+- [CELESTE](https://celeste-restaurant.vercel.app/) : A Restaurant Table Booking application using MERN stack.
+- [<OT> (PORTFOLIO)](https://ot-tchenga.vercel.app/) : My Actual Portfolio.
 
 ## 🛠️ Technologies & Tools
 
