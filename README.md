@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm passionate about robotics, AI, Web developpeme
 ## 👨‍💻 About Me
 
 - 🔭 I’m currently working on, many things...
-- 🌱 And after the MERN Stack, I'm learning Next JS!
+- 🌱 And after the MERN Stack, I'm learning Next JS! My Next project is to create an Expense Tracker PWA Dashboard App.
 - 📫 Reach me on [LinkdeIn](www.linkedin.com/in/sokenkai/) or [X](https://x.com/Otmar_sokenkai/)
 
 ## 🚀 My Projects
